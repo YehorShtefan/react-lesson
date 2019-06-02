@@ -1,0 +1,9 @@
+.header {
+	background-image: linear-gradient(to top, #5297ad, darkblue);
+	padding: 20px;
+}
+
+.header h1 {
+	color: #fff;
+	text-shadow: 0 0 5px #fff;
+}
